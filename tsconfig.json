@@ -36,7 +36,7 @@
         },
 
         "plugins": [
-            // Transform paths in output .d.ts files (Include this line if you output declarations files)
+            // Transform paths in output .d.ts files (Include this line if you output declarations file)
             {
                 "transform": "typescript-transform-paths",
                 "afterDeclarations": true
